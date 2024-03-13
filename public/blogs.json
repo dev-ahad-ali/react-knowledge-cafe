@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/nBDPKNR/scott-graham-5f-Nm-Wej4t-AA-unsplash.jpg",
+    "title": "The Enigmatic Echo",
+    "author": "Penelope Quill",
+    "author_img": "https://i.ibb.co/PcXsGqB/Ellipse-1.png",
+    "posted_date": "Mar 14 (4 Days ago)",
+    "reading_time": 15,
+    "hashtags": ["#Mystery", "#Suspense", "#Thriller"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/88T0T18/christopher-gower-vj-Mgq-Uk-S8q8-unsplash.jpg",
+    "title": "Quantum Serenity",
+    "author": "Xavier Nova",
+    "author_img": "https://i.ibb.co/J5cDDJV/Ellipse-1-1.png",
+    "posted_date": "Mar 14 (4 Days ago)",
+    "reading_time": 20,
+    "hashtags": ["#SciFi", "#Adventure", "#SpaceOdyssey"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/xGNJW3g/glenn-carstens-peters-npx-XWg-Q33-ZQ-unsplash.jpg",
+    "title": "Whispers in the Wind",
+    "author": "Mrs. Setara",
+    "author_img": "https://i.ibb.co/zVsnRtF/Ellipse-1-2.png",
+    "posted_date": "Mar 14 (4 Days ago)",
+    "reading_time": 18,
+    "hashtags": ["#Fantasy", "#Magic", "#Epic"]
+  }
+]
